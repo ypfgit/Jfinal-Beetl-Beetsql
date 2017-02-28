@@ -1,0 +1,3 @@
+queryBlog
+===
+select * from blog
